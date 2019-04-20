@@ -9,3 +9,10 @@ https://webglreport.com/ 测试浏览器是否支持webgl
 https://www.cnblogs.com/wanbo/p/6754066.html 图解webgl和threejs
 
 https://zhuanlan.zhihu.com/p/48033821 threejs导出json
+为啥呢？？这不科学啊！
+因为Three.js导出模型依赖于Blender，所以首先需要将模型导入到Blender中，这一步就非常依赖于设计师在构建模型时的构建方式，经过血与泪的洗礼，大概总结了有以下几点雷区：
+控制模型面数
+禁用第三方插件
+需提供展 UV 贴图
+当然这三点仅仅是雷区中的一点点，更多的是需要前端开发者与设计师一起对模型进行磨合，因为1000个设计师有1000中建模方法，所以还是要在实践中不断的磨合、踩坑，才能最终导出完美的模型。
+
