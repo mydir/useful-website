@@ -17,3 +17,5 @@ https://zhuanlan.zhihu.com/p/48033821 threejs导出json
 当然这三点仅仅是雷区中的一点点，更多的是需要前端开发者与设计师一起对模型进行磨合，因为1000个设计师有1000中建模方法，所以还是要在实践中不断的磨合、踩坑，才能最终导出完美的模型。
 
 https://zhuanlan.zhihu.com/p/24794967 浏览器是否支持webgl
+
+https://discoverthreejs.com/book/1-first-steps/1-first-scene/  threejs教程
